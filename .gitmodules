@@ -1,3 +1,6 @@
 [submodule "api-achieved"]
 	path = api-achieved
 	url = https://github.com/Babole/api-achieved
+[submodule "Lap-2-Project-Client"]
+	path = Lap-2-Project-Client
+	url = https://github.com/ultimafinal1/Lap-2-Project-Client
